@@ -32,12 +32,14 @@ python main.py
 ```
 
 
-## demo1
-![demo1](Screenshot 2023-02-11 at 8.42.14 PM.png "demo1")
+### demo1
+
+![demo1](demo1.png "demo1")
 
 
 
-## demo2 
-![demo2](Screenshot 2023-02-11 at 8.42.28 PM.png "demo2")
+### demo2 
+
+![demo2](demo2.png "demo2")
 
 
